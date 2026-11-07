@@ -1,3 +1,8 @@
+> [!TIP]
+> **Want more than fonts?** Check out **[FONT/FX for Claude](https://github.com/Tankist-edge-tech/fontfx-for-claude)**,
+> the extended version with themes, custom colors, glitch effects and calm ambient backgrounds.
+> With the background set to "Claude", it works just like this font changer.
+
 # Claude font changer browser extension
 
 Browser extension allowing you to change fonts on Claude web interface
